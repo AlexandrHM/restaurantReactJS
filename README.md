@@ -8,6 +8,16 @@
 #### Estado del Proyecto
 + Finalizado 
 
+
+
+> [!NOTE]
+> Apartado del backend (API Rest)
+
+<p>Para este proyecto es necesario que se ejecute la API del siguiente repositorio ya que contiene datos que la propia pagina consume</p>
+
+[Repositorio-APIRestSpring](https://github.com/AlexandrHM/restauranteApi "Repositorio-APIRestSpring")
+
+
 > [!IMPORTANT]
 > Antes de ejecutar tome en cuenta
 
@@ -39,12 +49,6 @@ npm install
 <p>En su terminal podra visualizar el puerto donde se ejecuta el proyecto, de lo contrario puede intentar con este enlace. <br>
 "http://localhost:8080" o de lo contrario intente con el "http://localhost:3000" </p>
 
-> [!NOTE]
-> Apartado del backend (API Rest)
-
-<p>Para este proyecto es necesario que se ejecute la API del siguiente repositorio ya que contiene datos que la propia pagina consume</p>
-
-[Repositorio-APIRestSpring](https://github.com/AlexandrHM/restauranteApi "Repositorio-APIRestSpring")
 
 #### Capturas de pantalla
 ![capturaUI](https://github.com/AlexandrHM/restaurantReactJS/assets/44487342/f8914a5c-db24-4442-a594-d59910dff475)
