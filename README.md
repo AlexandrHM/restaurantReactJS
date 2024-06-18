@@ -3,9 +3,7 @@
 ##  Restaurant Website + Backend API Rest
 
 #### Descripción
-<p> Sistema de gestión de documentos para el alumnado que imparten su servicio social y <br>
-prácticas profesionales de la Facultad de Negocios UNACH C-IV en el área de Coordinación <br>
-de Servicio Social y Prácticas Profesionales por medio de un software en entorno web.</p>
+<p>Sitio web con temática de un restaurante creado con React y React Icons el cual se conecta y consume una api rest</p>
 
 #### Estado del Proyecto
 + Finalizado 
@@ -46,7 +44,7 @@ npm install
 
 <p>Para este proyecto es necesario que se ejecute la API del siguiente repositorio ya que contiene datos que la propia pagina consume</p>
 
-[Repositorio-APIRestSpring](https://github.com/AlexandrHM/apiRestaurant "Repositorio-APIRestSpring")
+[Repositorio-APIRestSpring](https://github.com/AlexandrHM/restauranteApi "Repositorio-APIRestSpring")
 
 #### Capturas de pantalla
 ![capturaUI](https://github.com/AlexandrHM/restaurantReactJS/assets/44487342/f8914a5c-db24-4442-a594-d59910dff475)
