@@ -3,9 +3,7 @@
 ##  Restaurant Website + Backend API Rest
 
 #### Descripción
-<p> Sistema de gestión de documentos para el alumnado que imparten su servicio social y <br>
-prácticas profesionales de la Facultad de Negocios UNACH C-IV en el área de Coordinación <br>
-de Servicio Social y Prácticas Profesionales por medio de un software en entorno web.</p>
+<p>Sitio web con temática de un restaurante creado con React y React Icons el cual se conecta y consume una api rest</p>
 
 #### Estado del Proyecto
 + Finalizado 
