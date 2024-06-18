@@ -49,5 +49,6 @@ npm install
 [Repositorio-APIRestSpring](https://github.com/AlexandrHM/apiRestaurant "Repositorio-APIRestSpring")
 
 #### Capturas de pantalla
+![capturaUI](https://github.com/AlexandrHM/restaurantReactJS/assets/44487342/f8914a5c-db24-4442-a594-d59910dff475)
 
 #### Licencia (MIT License)
